@@ -19,11 +19,7 @@ Follow these steps to get a copy of the project up and running on your local mac
    ```bash
    git clone https://github.com/rahul-MyGit/Portfolio
    ```
-2. Open the project folder
-    ```bash
-    cd portfolio-website
-    ```
-3. Open index.html in your web browser.
+2. Open index.html in your web browser.
 
 ### Usage
 
